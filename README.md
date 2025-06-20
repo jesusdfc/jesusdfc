@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Jesús de la Fuente Cedeño
 
 👨‍💻 ML Quant Researcher | 🎓 PhD in ML applied to Computational Biology | 💡 Problem Solver  
+
 Passionate about building efficient, elegant solutions to complex problems using Python, machine learning, and algorithms.
 
 ## 🏆 Last Publications
