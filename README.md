@@ -20,9 +20,9 @@ Passionate about building efficient, elegant solutions to complex problems using
 - Manifold Learning  
 
 ## 🎉 Hobbies
-- 🏆 Kaggle: [jdlfuentec](https://www.kaggle.com/jdlfuentec)
+- 🏆 Kaggle Expert: [jdlfuentec](https://www.kaggle.com/jdlfuentec)
 - 🎮 League of Legends  
-- ♟️ Chess 
+- ♟️ Chess
 
 ## 🛠️ Skills & Tools
 
